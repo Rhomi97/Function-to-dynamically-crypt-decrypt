@@ -1,3 +1,4 @@
+<? 
   /** READ ME
     $to_encrypt: Is the simple array or variable that you want to encrypt/decrypt
     $table: Is the name of the table you wanna pass, that's on your db,
@@ -47,3 +48,4 @@
       the array to another function*/
     }
   }
+?>
